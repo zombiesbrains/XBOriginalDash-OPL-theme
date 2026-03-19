@@ -32,4 +32,4 @@ Font license: XBOX Original © Lyric West. 2020. All Rights Reserved. From https
 
 <h2>TODO:</h2>
 
-[ ] - Create Players/Media/Format/Videomode/Rating icons and add them to the game info screen
+[ ] - Create Media/Format/Videomode/Rating icons and add them to the game info screen
