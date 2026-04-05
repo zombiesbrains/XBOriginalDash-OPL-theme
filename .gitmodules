@@ -1,0 +1,3 @@
+[submodule "thm_XBOriginalDash/sound"]
+	path = thm_XBOriginalDash/sound
+	url = https://github.com/rusticmetal/XBOriginalDash-sounds
