@@ -32,4 +32,8 @@ Font license: XBOX Original © Lyric West. 2020. All Rights Reserved. From https
 
 <h2>TODO:</h2>
 
-[ ] - Create Media/Format/Videomode/Rating icons and add them to the game info screen
+[ ] - Add placeholder for menu game art, and clean up the spine overlay
+
+[ ] - Add disc art to game list
+
+[ ] - Add aspect ratio to the info screen
